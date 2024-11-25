@@ -1,0 +1,25 @@
+Java is a class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It was developed by James Gosling at Sun Microsystems and first released in 1995
+1
+. Java's primary goal is to allow developers to write code once and run it anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation
+2
+.
+
+Key Features of Java
+
+Platform Independent
+
+Java achieves platform independence through the use of bytecode. The Java compiler converts source code into bytecode, which can be executed on any platform with a Java Virtual Machine (JVM). This means that Java code compiled on one platform can run on any other platform that supports Java
+1
+.
+
+Object-Oriented Programming
+
+Java is an object-oriented language, which means it promotes the use of objects and classes. The four main concepts of object-oriented programming in Java are abstraction, encapsulation, inheritance, and polymorphism
+1
+.
+
+Simplicity
+
+Java's syntax is simple and easy to learn, especially for those familiar with C or C++. It eliminates complex features like pointers and multiple inheritances, making it easier to write, debug, and maintain code
+1
+.
